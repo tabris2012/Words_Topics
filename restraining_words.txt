@@ -1,0 +1,4 @@
+study	72617
+result	38425
+analysis	38320
+role	32829
